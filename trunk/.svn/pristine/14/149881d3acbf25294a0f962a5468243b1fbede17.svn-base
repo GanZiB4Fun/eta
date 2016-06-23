@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00c2bccf-f635-42a4-9fce-1debe54cce11" name="eta" url="http://120.24.0.92">
+        <fileTransfer host="120.24.0.92" port="21" rootFolder="/weiphp" password="dfeedfcfdfd9dfdadfcfdfd8dfcfdfcbdfdfdfd2df9adf93df99df9a" username="www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
